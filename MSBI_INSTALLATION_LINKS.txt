@@ -1,0 +1,22 @@
+
+SSDT Download Link
+
+https://docs.microsoft.com/en-us/sql/ssdt/download-sql-server-data-tools-ssdt?view=sql-server-ver15
+
+SSMS Download Link
+
+https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15
+
+SQL Server 2019 Download
+
+https://www.microsoft.com/en-us/evalcenter/evaluate-sql-server
+
+https://www.microsoft.com/en-us/download/details.aspx?id=100122
+
+
+https://www.microsoft.com/en-us/download/details.aspx?id=53613
+
+http://www.vinaytechhouse.com/MSBI-Software-Link.html
+
+
+
